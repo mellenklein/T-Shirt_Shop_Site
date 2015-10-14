@@ -1,0 +1,22 @@
+
+body {
+  margin: 10px;
+}
+	.homework {
+		border:1px solid #C0C0C0;
+		border-collapse:collapse;
+		padding:5px;
+    margin: 20px auto;
+    width: 50%;
+	}
+	.homework th {
+		border:1px solid #C0C0C0;
+		padding:5px;
+		background: #C2598F;
+    color: #fff;
+	}
+	.homework td {
+		border:1px solid #C0C0C0;
+		padding:5px;
+    background: pink;
+	}
